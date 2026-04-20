@@ -35,7 +35,7 @@
     "url": "https://github.com/w3c/trusted-types.git"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.26.10",
     "@babel/polyfill": "^7.4.4",
     "@babel/preset-env": "^7.5.5",
     "babelify": "^10.0.0",
